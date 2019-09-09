@@ -9,9 +9,9 @@ namespace StackoverflowPost
     class Post
     {
 
-        public string Title { get; set; }
-        public string Description { get; set; }
-        public DateTime CreateTime { get; set; }
+        public string Title { get; private set; }
+        public string Description { get;private set; }
+        public DateTime CreateTime { get; private set; }
 
         private int _currentVote;
 

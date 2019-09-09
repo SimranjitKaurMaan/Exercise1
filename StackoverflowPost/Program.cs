@@ -15,7 +15,7 @@ namespace StackoverflowPost
             p.upVote();
             p.downVote();
             Console.WriteLine("votes :{0}", p.showVotes()); 
-
+            
         }
     }
 }
