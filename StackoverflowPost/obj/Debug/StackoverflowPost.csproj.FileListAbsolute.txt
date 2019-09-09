@@ -1,0 +1,6 @@
+C:\myprojects\StackoverflowPost\StackoverflowPost\bin\Debug\StackoverflowPost.exe.config
+C:\myprojects\StackoverflowPost\StackoverflowPost\bin\Debug\StackoverflowPost.exe
+C:\myprojects\StackoverflowPost\StackoverflowPost\bin\Debug\StackoverflowPost.pdb
+C:\myprojects\StackoverflowPost\StackoverflowPost\obj\Debug\StackoverflowPost.csproj.CoreCompileInputs.cache
+C:\myprojects\StackoverflowPost\StackoverflowPost\obj\Debug\StackoverflowPost.exe
+C:\myprojects\StackoverflowPost\StackoverflowPost\obj\Debug\StackoverflowPost.pdb
